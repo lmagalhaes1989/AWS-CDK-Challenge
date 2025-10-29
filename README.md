@@ -63,3 +63,7 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+
+Project Diagram description
+
+![Description of diagram](Diagram.svg)
